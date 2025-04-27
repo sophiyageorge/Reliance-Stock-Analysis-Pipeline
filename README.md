@@ -84,24 +84,14 @@ Open reliance_stock_report.pbix in Power BI Desktop.
 
 ## 📸 Sample Outputs
 
-### Workflow
 <p align="center">
-  <img src="images/Flow chart.png" alt="Airflow DAG Run" width="600"/>
+  <img src="images/Flow chart.png" alt="Workflow" width="400"/>
+  <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="400"/>
 </p>
 
-### Airflow DAG Run
 <p align="center">
-  <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="600"/>
-</p>
-
-### Cleaned Data in MySQL
-<p align="center">
-  <img src="images/azure_mysql_datbase.png" alt="MySQL Table" width="600"/>
-</p>
-
-### Power BI Stock Analysis Dashboard
-<p align="center">
-  <img src="images/powerbi.png" alt="Power BI Dashboard" width="600"/>
+  <img src="images/azure_mysql_datbase.png" alt="Cleaned Data in MySQL" width="400"/>
+  <img src="images/powerbi.png" alt="Power BI Dashboard" width="400"/>
 </p>
 
 
