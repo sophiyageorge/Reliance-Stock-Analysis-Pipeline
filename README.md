@@ -41,3 +41,75 @@ reliance-stock-analysis/
 │   └── reliance_stock_report.pbix    # Power BI report file
 ├── README.md                         # Project Documentation
 └── requirements.txt                  # Python Dependencies
+
+
+
+⚙️ How It Works
+Fetch Data
+Fetch Reliance stock data using yfinance.
+
+Data Cleaning and Transformation
+Clean and transform the raw data using Python scripts.
+
+Load to Azure MySQL
+Store the cleaned data into an Azure-hosted MySQL database.
+
+Automation using Airflow
+Orchestrate the entire ETL process with Airflow DAGs (scheduled and automated).
+
+Visualization with Power BI
+Connect Power BI to Azure MySQL and build an interactive stock performance dashboard.
+
+📅 Future Enhancements
+Automate Power BI dataset refresh.
+
+Daily scheduling in Airflow for automatic updates.
+
+Add multi-stock support and new KPIs.
+
+🛠️ Setup Instructions
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/reliance-stock-analysis.git
+Install Python dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Configure Airflow
+
+Set up a new DAG using reliance_stock_etl.py.
+
+Add MySQL connection credentials in Airflow Admin UI.
+
+Set up Azure MySQL
+
+Create a database and update the credentials in load_to_mysql.py.
+
+Power BI Dashboard
+
+Open reliance_stock_report.pbix in Power BI Desktop.
+
+Connect to your Azure MySQL database.
+
+📸 Sample Outputs
+(Add screenshots here — Airflow DAG runs, MySQL tables, Power BI report)
+
+✨ Acknowledgments
+yfinance Python library
+
+Apache Airflow
+
+Azure MySQL Database
+
+Microsoft Power BI
+
+📬 Connect With Me
+Feel free to connect with me on LinkedIn for collaboration, discussions, or feedback!
+Mary Sophiya https://www.linkedin.com/in/mary-sophiya-145669131/
+
+#️⃣ #DataEngineering #CloudComputing #ETL #Azure #Airflow #PowerBI #Python #Automation
