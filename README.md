@@ -66,7 +66,7 @@ Connect Power BI to Azure MySQL and build an interactive stock performance dashb
 
 ## 🛠️ Setup Instructions
 - **Clone the repository :**
-git clone https://github.com/your-username/reliance-stock-analysis.git
+git clone https://github.com/sophiyageorge/reliance-stock-analysis.git
 
 - **Configure Airflow :**
 Set up a new DAG using reliance_stock_etl.py.
