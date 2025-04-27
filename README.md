@@ -1,5 +1,3 @@
-# 📈 Reliance Stock Analysis - Cloud Data Pipeline Project
-
 Welcome to my Reliance stock analysis project!  
 This project demonstrates an end-to-end **automated data pipeline**, integrating data fetching, transformation, cloud storage, automation, and visualization.
 
@@ -41,11 +39,7 @@ reliance-stock-analysis/
 │   └── reliance_stock_report.pbix    # Power BI report file
 ├── README.md                         # Project Documentation
 └── requirements.txt                  # Python Dependencies
-
-
-
----
-##⚙️ How It Works
+⚙️ How It Works
 Fetch Data
 Fetch Reliance stock data using yfinance.
 
@@ -70,24 +64,24 @@ Add multi-stock support and new KPIs.
 
 🛠️ Setup Instructions
 Clone the repository
-
+bash
+Copy
+Edit
 git clone https://github.com/your-username/reliance-stock-analysis.git
 Install Python dependencies
-
-
+bash
+Copy
+Edit
 pip install -r requirements.txt
 Configure Airflow
-
 Set up a new DAG using reliance_stock_etl.py.
 
 Add MySQL connection credentials in Airflow Admin UI.
 
 Set up Azure MySQL
-
 Create a database and update the credentials in load_to_mysql.py.
 
 Power BI Dashboard
-
 Open reliance_stock_report.pbix in Power BI Desktop.
 
 Connect to your Azure MySQL database.
@@ -109,3 +103,4 @@ Feel free to connect with me on LinkedIn for collaboration, discussions, or feed
 Mary Sophiya https://www.linkedin.com/in/mary-sophiya-145669131/
 
 #️⃣ #DataScience #CloudComputing #ETL #Azure #Airflow #PowerBI #Python #Automation
+
