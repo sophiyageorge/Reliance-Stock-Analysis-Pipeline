@@ -82,8 +82,16 @@ Open reliance_stock_report.pbix in Power BI Desktop.
 - **Connect to your Azure MySQL database.**
 
 ## 📸 Sample Outputs
-![Workflow](images/Flow chart.png)
-![Flow chart](images/stock_anaysis_flowchart.drowio.png)
+
+### Airflow DAG Run
+![Airflow DAG Run](images/airflow_dags.png)
+
+### Cleaned Data in MySQL
+![MySQL Table](images/azure_mysql_datbase.png)
+
+### Power BI Stock Analysis Dashboard
+![Power BI Dashboard](images/powerbi.png)
+
 
 
 ## ✨ Acknowledgments
