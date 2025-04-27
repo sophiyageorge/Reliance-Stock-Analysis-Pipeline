@@ -39,7 +39,9 @@ reliance-stock-analysis/
 │   └── reliance_stock_report.pbix    # Power BI report file
 ├── README.md                         # Project Documentation
 └── requirements.txt                  # Python Dependencies
-⚙️ How It Works
+```
+---
+## ⚙️ How It Works
 Fetch Data
 Fetch Reliance stock data using yfinance.
 
