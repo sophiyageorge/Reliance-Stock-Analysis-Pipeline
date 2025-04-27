@@ -88,22 +88,22 @@ Open reliance_stock_report.pbix in Power BI Desktop.
   <img src="images/Flow chart.png" alt="Workflow" width="200"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/stock_analysis_flowchart.png" alt="Stock Analysis Flowchart" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="200"/>
+  &nbsp;&nbsp;&nbsp;</br>
+  <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="300"/>
 </p>
 
 <p align="center">
-  <img src="images/airflow_dags.png" alt="Airflow DAG Run Again" width="200"/>
+  <img src="images/airflow_dags.png" alt="Airflow DAG Run Again" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/airflow_graph.png" alt="Airflow Graph" width="200"/>
+  <img src="images/airflow_graph.png" alt="Airflow Graph" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/dag_vscode.png" alt="DAG Python Script" width="200"/>
+  <img src="images/dag_vscode.png" alt="DAG Python Script" width="300"/>
 </p>
 
 <p align="center">
-  <img src="images/azure_mysql_datbase.png" alt="Azure MySQL Database" width="200"/>
+  <img src="images/azure_mysql_datbase.png" alt="Azure MySQL Database" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/powerbi.png" alt="Power BI Dashboard" width="200"/>
+  <img src="images/powerbi.png" alt="Power BI Dashboard" width="300"/>
 </p>
 
 ## ✨ Acknowledgments
