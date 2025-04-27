@@ -44,7 +44,8 @@ reliance-stock-analysis/
 
 
 
-⚙️ How It Works
+---
+##⚙️ How It Works
 Fetch Data
 Fetch Reliance stock data using yfinance.
 
@@ -70,15 +71,10 @@ Add multi-stock support and new KPIs.
 🛠️ Setup Instructions
 Clone the repository
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/reliance-stock-analysis.git
 Install Python dependencies
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Configure Airflow
 
@@ -112,4 +108,4 @@ Microsoft Power BI
 Feel free to connect with me on LinkedIn for collaboration, discussions, or feedback!
 Mary Sophiya https://www.linkedin.com/in/mary-sophiya-145669131/
 
-#️⃣ #DataEngineering #CloudComputing #ETL #Azure #Airflow #PowerBI #Python #Automation
+#️⃣ #DataScience #CloudComputing #ETL #Azure #Airflow #PowerBI #Python #Automation
