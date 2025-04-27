@@ -86,19 +86,25 @@ Open reliance_stock_report.pbix in Power BI Desktop.
 
 <p align="center">
   <img src="images/Flow chart.png" alt="Workflow" width="100"/>
-  <img src="images/stock_analysis_flowchart.drowio.png" alt="Airflow DAG Run" width="100"/>
-  <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="400"/>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/stock_analysis_flowchart.drowio.png" alt="Stock Analysis Flowchart" width="100"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="images/airflow_dags.png" alt="Airflow DAG Run" width="100"/>
-  <img src="images/airflow_graph.png" alt="Airflow DAG GRAPH" width="100"/>
 </p>
 
 <p align="center">
-  <img src="images/azure_mysql_datbase.png" alt="Cleaned Data in MySQL" width="100"/>
+  <img src="images/airflow_dags.png" alt="Airflow DAG Run Again" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/airflow_graph.png" alt="Airflow Graph" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/dag_vscode.png" alt="DAG Python Script" width="100"/>
+</p>
+
+<p align="center">
+  <img src="images/azure_mysql_datbase.png" alt="Azure MySQL Database" width="100"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="images/powerbi.png" alt="Power BI Dashboard" width="100"/>
 </p>
-
 
 ## ✨ Acknowledgments
 - **yfinance Python library**
